@@ -1,0 +1,15 @@
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\bin\Debug\net7.0\practica14-Portillo87.exe
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\bin\Debug\net7.0\practica14-Portillo87.deps.json
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\bin\Debug\net7.0\practica14-Portillo87.runtimeconfig.json
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\bin\Debug\net7.0\practica14-Portillo87.dll
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\bin\Debug\net7.0\practica14-Portillo87.pdb
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\obj\Debug\net7.0\practica14-Portillo87.csproj.AssemblyReference.cache
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\obj\Debug\net7.0\practica14-Portillo87.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\obj\Debug\net7.0\practica14-Portillo87.AssemblyInfoInputs.cache
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\obj\Debug\net7.0\practica14-Portillo87.AssemblyInfo.cs
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\obj\Debug\net7.0\practica14-Portillo87.csproj.CoreCompileInputs.cache
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\obj\Debug\net7.0\practica14-Portillo87.dll
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\obj\Debug\net7.0\refint\practica14-Portillo87.dll
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\obj\Debug\net7.0\practica14-Portillo87.pdb
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\obj\Debug\net7.0\practica14-Portillo87.genruntimeconfig.cache
+C:\Users\MINED\Desktop\Practicas de Programacion\practica14-Portillo87\obj\Debug\net7.0\ref\practica14-Portillo87.dll
